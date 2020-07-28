@@ -1,6 +1,7 @@
 # RizomUV Bridge for Cinema4D
 
-Installation:
+### Installation:
+
 Unpack plugin in Cinema4D Rxx\Plugins directory.
 Start Cinema4D and open Options window: Plugins > RizomUV Exporter > Options
 Specify the work path of the rizomuv.exe Default location is: C:\Program Files\Rizom Lab\[RizomUV]
